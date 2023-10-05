@@ -1,0 +1,6 @@
+orchestrator_name: orchestrator
+activity_name: activity
+template_path: template.yaml
+template_file_name: template
+destination_path: /tmp
+destination_file_name: destination
